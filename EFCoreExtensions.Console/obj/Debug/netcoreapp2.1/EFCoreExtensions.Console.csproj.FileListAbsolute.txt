@@ -1,0 +1,14 @@
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.csprojAssemblyReference.cache
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.AssemblyInfoInputs.cache
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.AssemblyInfo.cs
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.Console.deps.json
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.Console.runtimeconfig.json
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.Console.runtimeconfig.dev.json
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.Console.dll
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.Console.pdb
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.dll
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\bin\Debug\netcoreapp2.1\EFCoreExtensions.pdb
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.csproj.CopyComplete
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.dll
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions.Console\obj\Debug\netcoreapp2.1\EFCoreExtensions.Console.pdb

@@ -1,0 +1,9 @@
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\bin\Debug\netcoreapp2.1\EFCoreExtensions.deps.json
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\bin\Debug\netcoreapp2.1\EFCoreExtensions.dll
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\obj\Debug\netcoreapp2.1\EFCoreExtensions.csprojAssemblyReference.cache
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\obj\Debug\netcoreapp2.1\EFCoreExtensions.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\obj\Debug\netcoreapp2.1\EFCoreExtensions.AssemblyInfoInputs.cache
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\obj\Debug\netcoreapp2.1\EFCoreExtensions.AssemblyInfo.cs
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\bin\Debug\netcoreapp2.1\EFCoreExtensions.pdb
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\obj\Debug\netcoreapp2.1\EFCoreExtensions.dll
+C:\Users\y.baghaee\source\repos\EFCoreExtensions\EFCoreExtensions\obj\Debug\netcoreapp2.1\EFCoreExtensions.pdb
